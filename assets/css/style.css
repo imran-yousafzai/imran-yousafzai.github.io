@@ -1017,13 +1017,16 @@ section {
   background-color: #e80368;
 }
 .bg-yellow{
-  background-color: #ffbb2c;
+  background-color: #C0CA33;
 }
 .bg-orange{
   background-color: #ff9100;
 }
 .bg-blue{
   background-color: #47aeff;
+}
+.bg-gray{
+  background-color: #90A4AE;
 }
 
 .bg1{
